@@ -13,8 +13,10 @@ Repositorio de agentes personalizados para Claude Code. Cada agente está docume
   - Enfoques y lineamientos técnicos
 
 ---
-## Agentes
-- [go-coder](./go-coder.md): Agente experto en desarrollo Go, orientado a la filosofía minimalista e idiomática del lenguaje.
+
+## 🔍 Ejemplo: `[go-coder](./go-coder.md)`
+
+Agente experto en desarrollo Go, orientado a la filosofía minimalista e idiomática del lenguaje.
 
 ### 📋 Descripción
 
